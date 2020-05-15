@@ -13,3 +13,21 @@
     background-position: center;
     background-size: 100%;
 }
+#footer{
+    background-image: none;
+    background-color: #007bff;
+    height: 360px;
+    color: white;
+}
+#footer div h1{
+    font-size:24pt !important;
+    font-weight: 500;
+}
+#footer div img{
+    width: 150px;
+}
+.card-title img{
+    width: 25px;
+    margin-bottom: 4px;
+    margin-right: 3px;
+}
